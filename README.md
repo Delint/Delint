@@ -13,9 +13,6 @@
 ![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
 ![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
 ![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
 
 ㅤㅤ**欢迎第** ![Visitor Count](https://profile-counter.glitch.me/Delint/count.svg) **位人类到访我的主页**
 
@@ -73,7 +70,6 @@ Nothing...
 
 ---
 
-<img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" style="height:330px" /> <img src="https://github.com/Delint/Delint/blob/main/KLP.gif?raw=true" style="height:330px" />
 
 **As is well known, when a program encounters a BUG, we should open the bash and enter:** 
  ``` rm -rf /*  ```
@@ -90,22 +86,4 @@ Nothing...
 
 ```
 
-
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
+<img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" style="height:330px" /> <img src="https://github.com/Delint/Delint/blob/main/KLP.gif?raw=true" style="height:330px" />
