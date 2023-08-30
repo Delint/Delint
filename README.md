@@ -69,13 +69,20 @@
  Nothing...
 
 ## Contact Information
-E-mail:  wang.andy23@outlook.com , delint.github@foxmail.com
-洛谷: @Delint   (2024年3月3日开始使用)
-CSDN: PlumbSeed  (同PlumbSeed组织)
-Github: Delint
+E-mail:  **wang.andy23@outlook.com** , **wang.delint@foxmail.com**
+
+洛谷: **@Delint**   (2024年3月3日开始使用)
+
+CSDN: **PlumbSeed**  (同PlumbSeed组织)
+
+Github: **Delint**
+
 Wechat: 你觉得我会告诉你吗 :)
-QQ: 你觉得我会告诉你吗 :)
+
+QQ: 你觉得我会告诉你吗 :)**
+
 TG: 你觉得我会告诉你吗 :)
+
 
 ---
 
