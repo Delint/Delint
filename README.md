@@ -39,8 +39,7 @@
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" /></a>  
 <a href="https://forums.minecraftforge.net/" target="_blank"><img style="margin: 10px" src="https://forums.minecraftforge.net/uploads/monthly_2021_03/forge_logo.png.d1ecf3ff5345b3d06cb4e8ae78c4406e.png" alt="Minecraft mdk" height="25" /></a>  
 <a href="www.kali.org" target="_blank"><img style="margin: 10px" src="https://github.com/Delint/Delint/blob/main/kali.png" alt="Kali" height="28" /></a>  
-<a href="github.com" target="_blank"><img style="margin: 10px" src="https://github.com/Delint/Delint/blob/2f2d6f85887c43d82e0592c1c58cb8bc5442cc54/%E4%BB%A3%E7%A0%81%E9%9B%A8.gif" alt="💯" height="28" /></a>
-</div>  
+
 
 <br/>  
 
