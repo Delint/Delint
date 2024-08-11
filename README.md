@@ -1,20 +1,5 @@
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
-![草方块](https://i.loli.net/2018/08/13/5b715db54cdc3.gif)
 
-ㅤㅤ**欢迎第** ![Visitor Count](https://profile-counter.glitch.me/Delint/count.svg) **位人类到访我的主页**
+![Visitor Count](https://profile-counter.glitch.me/Delint/count.svg)
 
 ㅤㅤㅤㅤㅤㅤㅤㅤ<img alt="Static Badge" src="https://img.shields.io/badge/Delint-red?logo=monkeytie&logoColor=ff6110&label=Wang&labelColor=cyan&color=blue" style="height:25px" /> <img alt="Static Badge" src="https://img.shields.io/badge/China-black?style=flat-square&label=%E4%B8%AD%E5%9B%BD&labelColor=e11215&color=f9e625" style="height:25px" />
 
@@ -59,47 +44,7 @@
 
 <br/>  
 
-## Organization
-
-<a href="https://github.com/PlumbSeed" target="_blank"><img style="margin: 10px" src="https://github.com/Delint/Delint/blob/main/PlumbSeed.png" alt="PlumbSeed" height="75" /></a>  
-</div>  
-
-## Masterpiece
-
- Nothing...
 
 ## Contact Information
-E-mail:  **wang.andy23@outlook.com** , **wang.delint@foxmail.com**
+E-mail:  **wang.delint@gmail.com**
 
-洛谷: **@Delint**   (2024年3月3日开始使用)
-
-CSDN: **PlumbSeed**  (同PlumbSeed组织)
-
-Github: **Delint**
-
-Wechat: 你觉得我会告诉你吗 :)
-
-QQ: 你觉得我会告诉你吗 :)**
-
-TG: 你觉得我会告诉你吗 :)
-
-
----
-
-
-**As is well known, when a program encounters a BUG, we should open the bash and enter:** 
- ``` rm -rf /*  ```
-
-```
-
-.______      .______                
-|   _  \     |   _  \     _     _   
-|  |_)  |    |  |_)  |  _| |_ _| |_ 
-|      /     |   ___/  |_   _|_   _|
-|  |\  \----.|  |        |_|   |_|  
-| _| `._____|| _|                   
-                                    
-
-```
-
-<img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" style="height:330px" /> <img src="https://github.com/Delint/Delint/blob/main/KLP.gif?raw=true" style="height:330px" />
