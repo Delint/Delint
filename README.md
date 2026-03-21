@@ -1,7 +1,5 @@
 
   ![Visitor Count](https://profile-counter.glitch.me/Delint/count.svg)
-ㅤㅤㅤㅤ<img alt="Static Badge" src="https://img.shields.io/badge/Delint-red?logo=monkeytie&logoColor=ff6110&label=Wang&labelColor=cyan&color=blue" style="height:25px" /> <img alt="Static Badge" src="https://img.shields.io/badge/China-black?style=flat-square&label=%E4%B8%AD%E5%9B%BD&labelColor=e11215&color=f9e625" style="height:25px" />
-
 
 ![Wsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delint&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delint&layout=pie)](https://github.com/Delint/github-readme-stats)
 
