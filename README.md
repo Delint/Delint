@@ -1,6 +1,4 @@
 
-  ![Visitor Count](https://profile-counter.glitch.me/Delint/count.svg)
-
 ![Wsir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delint&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delint&layout=pie)](https://github.com/Delint/github-readme-stats)
 
 
@@ -39,7 +37,4 @@
 
 <br/>  
 
-
-## Contact Information
-E-mail:  **wang.delint@gmail.com**
 
